@@ -1,7 +1,7 @@
 {
   "name": "ac-json-splitter",
   "description": "Allows valid splitting of JSON objects",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": "https://github.com/admiralcloud/ac-json-splitter",
   "license": "MIT",
   "author": "Mark Poepping <mark.poepping@admiralcloud.com> (https://www.admiralcloud.com/)",
